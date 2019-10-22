@@ -1,2 +1,2 @@
 # pooled
-Connection pool to force delay &amp; max life between commands
+Connection pool to enforce max duration &amp; delay between commands
